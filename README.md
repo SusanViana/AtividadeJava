@@ -1,4 +1,4 @@
-# Atividade
-Atividade 13- Hora de codar
+# Atividade 1
+Atividade - Hora de codar
 
-Exercicios de primeiros paços em java.
+Exercicios de primeiros passos.
